@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **XyzzyRP Administration Panel**
 
-- 👨‍💻 All of my projects are available at <a href="https://kscode.pl" target="_blank">kscode.pl</a>
+- 👨‍💻 All of my projects are available at <a href="https://kscode.pl" target="_blank">kscode.pl</a> and <a href="https://github.com/NexON39?tab=repositories" target="_blank">github</a>
 
 - 📫 How to reach me **kscode.pl@gmail.com**
 
