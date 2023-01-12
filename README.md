@@ -36,6 +36,6 @@
 </p>
 <h3 align="center">Statistics:</h3>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=NexON39&show_icons=true&theme=tokyonight&cardType=github"/>
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NexON39&count_private=true&show_icons=true&theme=dracula"/>
 </p>
 
