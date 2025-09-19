@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">A passionate full-stack developer from Poland!</h3>
 
-- 🔭 I’m currently working on **Portfolio**.
-- 👨‍💻 All of my projects are available at <a href="https://kscode.pl" target="_blank">kscode.pl</a> and <a href="https://github.com/NexON39?tab=repositories" target="_blank">github</a>
-
-- 📫 How to reach me **kscode.pl@gmail.com**
+- 🔭 I’m currently working on **EVERYTHING**.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
